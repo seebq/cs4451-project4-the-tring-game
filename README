@@ -1,0 +1,11 @@
+CS4451B - Project 4 - The TRING Game
+
+What is TRING?
+
+TRING is a variation of the Carom Billiard game, invented by Professor Jarek Rossignac. It is played on a circular pool table with three balls: one red, one green, and one blue (as appropriate for a Graphics course). Players take turns and use a billiard cue to strike one of the balls. On each shot, a different ball is struck, cycling through the three colors. First red, then green, then blue, red again and so on. Suppose that the red ball is struck with the cue, if it touches the other two, the player scores one point and plays again, striking the green ball this time. When the cue ball (the ball struck by the cue) stops before touching the other two, the next player will play the ball with the next color in the cycle. First to reach 21 wins.
+
+TRING is an OpenGL game programmed in C++ and with the GLUT utilities.  The goal of this version of TRING is to implement a realistic simulation using physics models to represent motion, collisions, and interactions in 2D and 3D.
+
+The page is archived here: http://www.seebq.com/cs4451/project4/
+
+This project was completed in December of 2002.
